@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: >-
+  Replication package for "Reliance Inference and Institutional
+  Architecture under Generative AI: A Law-and-Economics Analysis"
+message: >-
+  If you use this software, please cite both the article and this
+  replication package using the metadata below.
+type: software
+authors:
+  - given-names: Rina
+    family-names: Suzuki
+  - given-names: Kenji
+    family-names: Suzuki
+  - given-names: Koki
+    family-names: Arai
+    affiliation: Kyoritsu Women's University
+repository-code: 'https://github.com/<USERNAME>/reliance-inference-replication'
+abstract: >-
+  Python implementation reproducing all numerical results in
+  Sections 3.7-3.8 and Mathematical Appendix E of the working
+  paper "Reliance Inference and Institutional Architecture under
+  Generative AI: A Law-and-Economics Analysis." Includes the
+  four-pillar welfare decomposition, dynamic welfare analysis
+  (Proposition 4), one-at-a-time sensitivity, and Monte Carlo
+  robustness checks.
+keywords:
+  - generative AI
+  - copyright
+  - law and economics
+  - Bayesian inference
+  - mechanism design
+  - reliance inference
+  - ikyosei
+license: MIT
+version: 1.0.0
+date-released: '2026-04-27'
+preferred-citation:
+  type: unpublished
+  authors:
+    - given-names: Rina
+      family-names: Suzuki
+    - given-names: Kenji
+      family-names: Suzuki
+    - given-names: Koki
+      family-names: Arai
+      affiliation: Kyoritsu Women's University
+  title: >-
+    Reliance Inference and Institutional Architecture under
+    Generative AI: A Law-and-Economics Analysis
+  year: 2026
+  notes: Working paper
