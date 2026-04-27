@@ -1,0 +1,2 @@
+horizon_T,discount_rate_r,pi_theta_initial,pi_theta_long_run,static_e_star,static_total_loss,BAT_total_loss,BAT_loss_reduction_pct,W_double_prime_at_e_so,quadratic_lower_bound,bound_holds
+40,0.02,0.2,0.85,0.6,356.378,0.019,99.99,-111.111,356.378,True
