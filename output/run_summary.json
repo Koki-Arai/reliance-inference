@@ -1,0 +1,15 @@
+{
+  "tables": [
+    "/home/claude/draft/replication/output/tables/table_3_8_calibration.csv",
+    "/home/claude/draft/replication/output/tables/proposition4_check.csv",
+    "/home/claude/draft/replication/output/tables/monte_carlo_summary.csv"
+  ],
+  "figures": {
+    "dynamics": "/home/claude/draft/replication/output/figures/fig_dynamics.png",
+    "sensitivity": "/home/claude/draft/replication/output/figures/fig_sensitivity.png",
+    "monte_carlo": "/home/claude/draft/replication/output/figures/fig_monte_carlo.png",
+    "correlation": "/home/claude/draft/replication/output/figures/fig_correlation.png",
+    "decomposition": "/home/claude/draft/replication/output/figures/fig_decomposition.png"
+  },
+  "output_root": "/home/claude/draft/replication/output"
+}
